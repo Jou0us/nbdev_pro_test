@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_pro_test"
+  site-url: "https://Jou0us.github.io/nbdev_pro_test"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/Jou0us/nbdev_pro_test"
